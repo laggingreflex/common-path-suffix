@@ -1,0 +1,10 @@
+{
+  "name": "common-path-suffix",
+  "version": "0.0.0",
+  "description": "Reverse of common-path-prefix",
+  "main": "index.js",
+  "repository": "laggingreflex/common-path-suffix",
+  "dependencies": {
+    "common-path-prefix": "^3.0.0"
+  }
+}
